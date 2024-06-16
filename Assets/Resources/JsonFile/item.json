@@ -1,0 +1,74 @@
+[
+  {
+    "number": 1,
+    "itemName": "ポーション",
+    "itemInfo": "体力を少量回復する",
+    "type": "StatusUp",
+    "changeStatus": "Life",
+    "value": 5,
+    "count": 0
+  },
+  {
+    "number": 2,
+    "itemName": "ハイポーション",
+    "itemInfo": "体力を大量回復する",
+    "type": "StatusUp",
+    "changeStatus": "Life",
+    "value": 20,
+    "count": 0
+  },
+  {
+    "number": 3,
+    "itemName": "体力の実",
+    "itemInfo": "最大体力を上昇させる",
+    "type": "StatusUp",
+    "changeStatus": "LifeMax",
+    "value": 3,
+    "count": 0
+  },
+  {
+    "number": 4,
+    "itemName": "力の実",
+    "itemInfo": "攻撃力を上昇させる",
+    "type": "StatusUp",
+    "changeStatus": "Attack",
+    "value": 1,
+    "count": 0
+  },
+  {
+    "number": 5,
+    "itemName": "守りの実",
+    "itemInfo": "防御力を上昇させる",
+    "type": "StatusUp",
+    "changeStatus": "Defense",
+    "value": 1,
+    "count": 0
+  },
+  {
+    "number": 6,
+    "itemName": "スライムジェル",
+    "itemInfo": "スライムから取れる液体。",
+    "type": "None",
+    "changeStatus": "None",
+    "value": 0,
+    "count": 0
+  },
+  {
+    "number": 7,
+    "itemName": "狂スライム細胞",
+    "itemInfo": "狂気のスライムの細胞。毒性がある。",
+    "type": "None",
+    "changeStatus": "None",
+    "value": 0,
+    "count": 0
+  },
+  {
+    "number": 8,
+    "itemName": "ウサギ肉",
+    "itemInfo": "さっぱりとした味で人気の肉。",
+    "type": "None",
+    "changeStatus": "None",
+    "value": 0,
+    "count": 0
+  }
+]

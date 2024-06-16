@@ -1,0 +1,42 @@
+﻿[
+  {
+    "questname": "スライムジェルの納品",
+    "targetName": "スライムジェル",
+    "targetValue": 2,
+    "questType": "Item",
+    "needpoint": 0,
+    "rewardItem": "ポーション",
+    "rewardValue": 1,
+    "rewardrankpoint": 5
+  },
+  {
+    "questname": "ウサギ肉の納品",
+    "targetName": "ウサギ肉",
+    "targetValue": 1,
+    "questType": "Item",
+    "needpoint": 0,
+    "rewardItem": "ポーション",
+    "rewardValue": 1,
+    "rewardrankpoint": 10
+  },
+  {
+    "questname": "狂化スライムの討伐",
+    "targetName": "レッドスライム",
+    "targetValue": 1,
+    "questType": "Battle",
+    "needpoint": 50,
+    "rewardItem": "ハイポーション",
+    "rewardValue": 1,
+    "rewardrankpoint": 20
+  },
+  {
+    "questname": "巨大スライムの討伐",
+    "targetName": "ビッグスライム",
+    "targetValue": 1,
+    "questType": "Battle",
+    "needpoint": 100,
+    "rewardItem": "体力の実",
+    "rewardValue": 1,
+    "rewardrankpoint": 100
+  }
+]
