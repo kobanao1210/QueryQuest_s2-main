@@ -151,7 +151,7 @@ MonoBehaviour:
   vLifeMax: 30
   vLife: 30
   vAttack: 7
-  vDefense: 5
+  vDefense: 3
   enemyName: "\u30D3\u30C3\u30B0\u30B9\u30E9\u30A4\u30E0"
   haveExp: 50
   haveMoney: 1000
